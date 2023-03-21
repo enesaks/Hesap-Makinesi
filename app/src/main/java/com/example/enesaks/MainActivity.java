@@ -76,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
                     HesapCozum.setText(HesapCevap.getText().toString()+"+");
                     HesapCevap.setText(null);
                     toplam = true;
+
                 break;
             case "-":
                 chrCevap = (HesapCevap.getText().toString()).toCharArray();
