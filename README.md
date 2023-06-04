@@ -5,7 +5,7 @@ Nasıl çalıştığını gösteren ![video](https://user-images.githubuserconte
  ![hesapmakinası](https://github.com/enesaks/Hesap-Makinesi/assets/98012557/4ba0a59e-8c84-4df6-8656-5b8911707d3e)
  
  
- ![Bütün Kodlar](https://github.com/enesaks/Hesap-Makinesi/blob/main/app/src/main/java/com/example/enesaks/MainActivity.java)
+ [Bütün Kodlar](https://github.com/enesaks/Hesap-Makinesi/blob/main/app/src/main/java/com/example/enesaks/MainActivity.java)
 # Hesap Makinesi Kodu 
 
 Toplamaya basıldığında Çalışan Kod 
